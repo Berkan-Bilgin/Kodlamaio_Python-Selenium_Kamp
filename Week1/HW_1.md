@@ -96,7 +96,7 @@ _ _ _
 ```python
 
 name:"Yetistirme Kampı-Python & Selenium",     //String
-completionRate:50      //İnteger
+completionRate:50      //Integer
 
 ```
 _ _ _
